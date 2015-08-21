@@ -1,0 +1,35 @@
+/* counter */
+.counter {
+    width:100%;
+    text-align:center;
+    float:left;
+    font-size: 34px;
+    line-height: 1.42857;
+}
+.icon-user {
+    
+    font-size:35px !important;
+    
+}
+.counter > .glyphicon{
+    font-size:30px !important;
+}
+.counter-header {
+    
+    color:#2EB6D1;
+}
+.counter-header {
+    line-height:1.5;
+}
+.counter-content , .counter-footer{
+    
+    color:#0A1B25;
+}
+.counter-footer{
+    
+    font-size:12px;
+    font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+.col-counter {
+    text-align:center;
+}
